@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/FrontEndLab7.1/static/css/main.479dc9d3.css",
-    "main.js": "/FrontEndLab7.1/static/js/main.580e9015.js",
+    "main.js": "/FrontEndLab7.1/static/js/main.af4b9981.js",
     "static/js/453.c03f4773.chunk.js": "/FrontEndLab7.1/static/js/453.c03f4773.chunk.js",
+    "static/media/odesa.jpg": "/FrontEndLab7.1/static/media/odesa.6320f0ff2c6a72318332.jpg",
     "index.html": "/FrontEndLab7.1/index.html",
     "main.479dc9d3.css.map": "/FrontEndLab7.1/static/css/main.479dc9d3.css.map",
-    "main.580e9015.js.map": "/FrontEndLab7.1/static/js/main.580e9015.js.map",
+    "main.af4b9981.js.map": "/FrontEndLab7.1/static/js/main.af4b9981.js.map",
     "453.c03f4773.chunk.js.map": "/FrontEndLab7.1/static/js/453.c03f4773.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.479dc9d3.css",
-    "static/js/main.580e9015.js"
+    "static/js/main.af4b9981.js"
   ]
 }
