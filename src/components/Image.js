@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import odesaImg from "../odesa.jpg";
 
 function Image() {
   const [imgVisible, setImgVisible] = useState(true);
@@ -34,7 +35,7 @@ function Image() {
       </div>
       <div>
         <img
-          src="/odesa.jpg"
+          src={odesaImg}
           alt="Фото Одеси"
           id="odesa-img"
           style={{
